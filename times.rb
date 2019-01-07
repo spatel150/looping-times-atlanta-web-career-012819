@@ -3,7 +3,7 @@ def using_times(name)
       puts "#{name}"
 end
 
-
+using_times("Wingardium Leviosa")
 
 
 
