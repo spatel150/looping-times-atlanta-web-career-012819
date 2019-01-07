@@ -4,7 +4,7 @@ def using_times(name)
   end
 end
 
-using_times("Wingardium Leviosa")
+using_times(Wingardium Leviosa)
 
 
 
