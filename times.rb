@@ -1,4 +1,4 @@
-def using_times(name)
+def using_times
     7.times do 
       puts "#{name}"
   end
